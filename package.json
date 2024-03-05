@@ -1,0 +1,23 @@
+{
+  "name": "chess-reader",
+  "version": "1.0.0",
+  "description": "Will dynamically display the current chessboard position as the user scrolls through a game description with variations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pajtai/chess-reader.git"
+  },
+  "keywords": [
+    "chess",
+    "chessboard"
+  ],
+  "author": "Peter Ajtai <peter.ajtai@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pajtai/chess-reader/issues"
+  },
+  "homepage": "https://github.com/pajtai/chess-reader#readme"
+}
